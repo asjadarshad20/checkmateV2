@@ -1,0 +1,6 @@
+.cardGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); /* Adjust column width as needed */
+    gap: 20px; /* Adjust gap between cards as needed */
+  }
+  
